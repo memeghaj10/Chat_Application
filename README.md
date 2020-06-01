@@ -41,11 +41,14 @@ Although I learned quite a lot while trying to build this app, but further impro
 
 3. `Deployment of the app on Heroku/Netlify/MongoDB-Atlas`.
 
+## This is the landing-page.
 <img src="pictures/login.png">
-### This is the landing-page.
 
+
+## This is the screen-shot inside the room.
 <img src="pictures/room1.png">
-### This is the picture inside the room.
 
+
+
+## This is the screen-shot when a user leaves.
 <img src="pictures/userleft.png">
-### This is the screen-shot when a user leaves.
