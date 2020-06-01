@@ -41,3 +41,4 @@ Although I learned quite a lot while trying to build this app, but further impro
 
 3. `Deployment of the app on Heroku/Netlify/MongoDB-Atlas`.
 
+![image](./pictures/Screenshot(1720).png)
